@@ -26,6 +26,11 @@
 ./vendor/bin/phpunit --testdox
 ```
 
+## Run game
+```bash
+php index.php
+```
+
 ## Current Gameplay
 1. One Hero can fight multiple enemies
 2. In order to give the hero a fighting chance the hero can attack all enemies on his turn (this can be changed easily if needed in game logic)
