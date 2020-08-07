@@ -3,6 +3,7 @@
 ./composer.phar install
 ```
 ## Dependencies
+Tested on PHP 7.3.11
 ```bash
 {
   "autoload": {
